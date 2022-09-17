@@ -1,5 +1,5 @@
 <h3 align="center">Visitors Counts👀</h3>
-<a href="https://github.com/daredevilkinng/TeleAdder"><img alt="Cute Count" src="https://count.getloli.com/get/@TeleAdder?theme=rule34" /></a>
+<a href="https://github.com/nekwo"><img alt="Cute Count" src="https://count.getloli.com/get/@TeleAdder?theme=rule34" /></a>
 
 -----------------------------------------------------------------------------------------------
 - 👀 I’m interested in General Adversal networks, Electro-Mechanics and Electronic Arts
