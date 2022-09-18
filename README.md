@@ -1,4 +1,4 @@
-<h3 align="center">Visitors Counts👀</h3>
+<h3 align="center">Visitor Count👀</h3>
 <a href="https://github.com/nekwo"><img alt="Cute Count" src="https://count.getloli.com/get/@nekwo?theme=gelbooru" /></a>
 
 -----------------------------------------------------------------------------------------------
