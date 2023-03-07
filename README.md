@@ -2,7 +2,7 @@
 <a href="https://github.com/nekwo"><img alt="Cute Count" src="https://count.getloli.com/get/@nekwo?theme=gelbooru" /></a>
 
 -----------------------------------------------------------------------------------------------
-Don't got much public stuff here I mostly use perforce.. Feel free to invite me to private orgs tho.
+Don't have much public stuff here I mostly use perforce.. Feel free to invite me to private orgs tho.
 
 - 👀 interested in general adversarial networks, Electro-Mechanics and Electronic Arts
 - 🌱 currently learning Virtual Reality Multiplayer
