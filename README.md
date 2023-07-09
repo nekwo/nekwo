@@ -7,7 +7,7 @@ Don't have much public stuff here I mostly use perforce.. Feel free to invite me
 - 👀 interested in general adversarial networks, Electro-Mechanics and Electronic Arts
 - 🌱 currently learning Virtual Reality Multiplayer
 - 💞️ looking to collaborate on Atomic Engineering Research
-- 📫 Hmu on discord @ watsdis
+- 📫 Hmu on discord @ wutsdis
 
 <!---
 ptrKami/ptrKami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
