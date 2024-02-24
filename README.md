@@ -4,8 +4,8 @@
 -----------------------------------------------------------------------------------------------
 Don't have much public stuff here I mostly use perforce.. Feel free to invite me to private orgs tho.
 
-- 👀 interested in general adversarial networks, Electro-Mechanics and Electronic Arts
-- 🌱 currently learning Virtual Reality Multiplayer
+- 👀 interested in AI & ElectroMechanics
+- 🌱 currently learning VR Multiplayer
 - 💞️ looking to collaborate on Atomic Engineering Research
 - 📫 Hmu on discord @ wutsdis
 
